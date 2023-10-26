@@ -1,8 +1,8 @@
 # Weather-app
 
 <div style=" text-align: center;">
-    <img src="images/weatherapp1.png">
-    <img src="images/weatherapp2.png">
+    <img src="images/weatherapp.png" alt="Weather-App">
+    <img src="images/weatherapp2.png" alt="Weather-App">
 </div>
 
 <div style=" text-align: center;"><img src="https://images.macrumors.com/t/p1GEgEi3DylyV8R3Ek1C2MO9qyM=/800x0/article-new/2021/08/iOS-15-Weather-Feature.jpg?lossy"/> </div>
